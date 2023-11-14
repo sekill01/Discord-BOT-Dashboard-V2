@@ -1,9 +1,9 @@
 {
-    "clientID":"BOTclientID",
-    "clientSecret":"BOTclientSecret",
+    "clientID":"1138957684830375987",
+    "clientSecret":"1138957684830375987",
     "callbackURL":"BOTcallbackURL",
-    "Admin":["userAdminID"],
-    "token":"BOTtoken",
-    "prefix":"-",
+    "Admin":["827381108123500614"],
+    "token":"MTEzODk1NzY4NDgzMDM3NTk4Nw.GpvpOr.jNNt1DemdbXRgnj5KFMWxxE2cByDWyKESTHbLQ",
+    "prefix":".",
     "port":"3000"
 }
